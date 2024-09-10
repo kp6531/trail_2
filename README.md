@@ -1,5 +1,5 @@
 # trail_2
-# CSE_ADVISING_CHATBOT
+# CSE_aDVISING_CHATBOT
 
 Created for practice push and pull
 
