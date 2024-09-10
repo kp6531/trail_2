@@ -44,6 +44,6 @@ Run the Docker container to start the application. Use the command below:
 docker run -p 5002:8501 academicadvisor
 ```
 
-The -p 5002:8501 flag maps port 8501 inside the container to port 5002 on your local machine. The application should now be accessible at:
+You can access the application at:
 http://127.0.0.1:5002/ or http://localhost:5002/
 
