@@ -7,13 +7,6 @@ CSE 6550: Software Engineering Concepts, Fall 2024
 
 The **CSE Academic Advisor Chatbot** is an AI-driven assistant designed to help students navigate academic queries related to the Computer Science and Engineering (CSE) department. The chatbot can answer questions about course prerequisites, academic schedules, department policies, and more. This project leverages advanced AI models and various technologies to provide accurate and helpful information.
 
-## Table of Contents
-- [Setup](#setup)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Setup
 
