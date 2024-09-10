@@ -1,11 +1,11 @@
-# Textbook Chatbot (Team 3)
+# CSE Academic Advisor Chatbot (Team 2)
 CSE 6550: Software Engineering Concepts, Fall 2024
 
 **California State University, San Bernardino**
 
 ## Project Overview
 
-This project involves the development of a Textbook Chatbot using advanced AI models for providing students with answers and guidance based on textbook materials. The chatbot leverages technologies such as GPT-4, Streamlit, and LangChain to deliver an intuitive and engaging user experience.
+The **CSE Academic Advisor Chatbot** is an AI-driven assistant designed to help students navigate academic queries related to the Computer Science and Engineering (CSE) department. The chatbot can answer questions about course prerequisites, academic schedules, department policies, and more. This project leverages advanced AI models and various technologies to provide accurate and helpful information.
 
 ## Table of Contents
 - [Setup](#setup)
@@ -17,10 +17,11 @@ This project involves the development of a Textbook Chatbot using advanced AI mo
 
 ## Setup
 
-To get started, follow the steps below to set up the project on your local machine:
+To set up the **CSE Academic Advisor Chatbot** on your local machine, follow the steps below:
 
-1. **Clone the Repository**  
-   Clone the repository to your local machine using the command below:
+### Step 1: Clone the Repository
 
-   ```bash
-   git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team3.git
+First, clone the GitHub repository to your local machine using the command below:
+
+```bash
+git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team2.git
