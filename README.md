@@ -23,8 +23,8 @@ First, clone the GitHub repository to your local machine using the command below
 
 ### Step 2: Navigate to the Project Directory
 
-'''bash
-cd csusb_fall2024_cse6550_team3
+cd csusb_fall2024_cse6550_team2
+
 
 
 After cloning, navigate to the poject directory
