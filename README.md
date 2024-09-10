@@ -16,9 +16,11 @@ To set up the **CSE Academic Advisor Chatbot** on your local machine, follow the
 
 First, clone the GitHub repository to your local machine using the command below:
 
-
-   ```bash
+```bash
    git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team2.git
+
+
+
 
 
 ### Step 2: Navigate to the Project Directory
@@ -38,8 +40,9 @@ Build the Docker image by running the following command:
 
 docker build -t academicadvisor .
 
+```bash
 
-
+hey
 
 
 
