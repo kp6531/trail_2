@@ -16,11 +16,34 @@ To set up the **CSE Academic Advisor Chatbot** on your local machine, follow the
 
 First, clone the GitHub repository to your local machine using the command below:
 
-
+```
    git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team2.git
+```
 
+### Step 2: Navigate to the Project Directory
 
-[Link Text](http://example.com)
+Once the repository is cloned, navigate to the project directory:
 
+```
+cd csusb_fall2024_cse6550_team2
+```
 
+### Step 3: Build the Docker Image
+
+Make sure Docker is installed and running on your machine. Build the Docker image using the following command:
+
+```
+docker build -t academicadvisor .
+```
+
+### Step 4: Run the Docker Container
+
+Run the Docker container to start the application. Use the command below:
+
+```
+docker run -p 5002:8501 academicadvisor
+```
+
+The -p 5002:8501 flag maps port 8501 inside the container to port 5002 on your local machine. The application should now be accessible at:
+http://127.0.0.1:5002/ or http://localhost:5002/
 
