@@ -15,7 +15,8 @@ To set up the **CSE Academic Advisor Chatbot** on your local machine, follow the
 ### Step 1: Clone the Repository
 
 
-   git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team3.git
+   https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team3.git
+
 
 First, clone the GitHub repository to your local machine using the command below:
 
