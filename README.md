@@ -20,6 +20,7 @@ https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team3.git
 
 ### Step 2: Navigate to the Project Directory
 
+'''bash
 cd csusb_fall2024_cse6550_team3
 
 
