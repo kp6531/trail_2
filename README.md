@@ -1,1 +1,1 @@
-This is bubble sort algorithm in java computer language!
+These are Bubble Sort and 2D Search algorithms in java computer language!
